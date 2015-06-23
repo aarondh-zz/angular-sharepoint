@@ -1,7 +1,7 @@
 /*
  * angular-sharepoint version 1.0.3 2/05/2015
  *
- * Written By: Aaron G. Daisley-Harrison <aaron.dh@wirestone.com>
+ * Written By: Aaron G. Daisley-Harrison <aaron@daisley-harrison.com>
  *
  * angular-sharepoint is an angular module that extends 
  * the SharePoint 2013 Client Model and REST services to provide
